@@ -1,0 +1,8 @@
+
+{"majority":"대부분", "means":"방법""/""수단", "necessarilly":"반드시", "need":"필요""/""요구", "repeatedly":"반복해서", "strategy":"전략", "affordable":"감당할 수 있는", 
+                 "alter":"고치다""/""바꾸다", "apply":"적용(지원)하다", "auction":"경매", "authentic":"진짜의", "benefit":"혜택""/""이익", "carefully":"주의 깊게", "charge":"요금""/""부과",
+                 "delivery":"배달", "description":"설명서""/""해설", "equivalent":"~에 상당하는", "exactly":"정확히", "exclusively":"독점적으로""/""오로지", "installment":"할부", "install":"설치하다",
+                 "lately":"최근에", "merchandise":"상품", "method":"방법", "notice":"통지", "offer":"제공하다", "officially":"공식적으로", "purchase":"구매하다", "readily":"쉽게", "receipt":"영수증",
+                 "refund":"환불", "relatively":"상대적으로", "sturdy":"튼튼한", "thrifty":"검소한", "valid":"유효한", "value":"가치""/""가격", "voucher":"상품권", "venue":"장소", "warranty":"보증서",
+                 "assemble":"조립하다"
+                }
