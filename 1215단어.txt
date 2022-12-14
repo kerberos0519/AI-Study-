@@ -1,0 +1,6 @@
+"attribute":"(원인을)~에 돌리다", "automate":"자동화하다", "capable":"~을 할 수 있는", "capacity":"수용력", "carelessly":"부주의하게", "chemical":"화학제품", "comparable":"비교되는",
+                 "damaged":"손상된", "device":"장치", "discontinue":"중단하다", "efficiency":"효율""/""능률", "equipment":"장비""/""설비", "evidently":"명백히", "facility":"시설", "halt":"중단""/""정지",
+                 "launch":"(신제품을)출시하다", "material":"재료""/""물질", "operate":"작동하다", "operational":"작동하는", "precaution":"예방 조치", "prevent":"~을 막다", "processing":"처리""/""가공",
+                 "produce":"생산하다", "properly":"정확하게", "protective":"보호하는", "quota":"할당량", "safety":"안전", "separately":"개별적으로", "specification":"명세서", "stage":"단계",
+                 "tolerance":"관용", "utilize":"이용하다", "absolute":"완전한", "accurate":"정확한", "advance":"진보""/""전진", "allow":"허락하다", "appearance":"외관 외모", "bewildering":"당혹케 하는",
+                 "broad":"넓히다", "compatible":"호환성의"
